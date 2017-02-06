@@ -1,0 +1,25 @@
+.chocolatechip{
+	width: 200px;
+	height: 200px;
+	background-color: brown;
+}
+.peanutbutter{
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+}
+.oatmeal{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+}
+.totalcookies{
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+}
+.clearcookies{
+	width: 100px;
+	height: 100px;
+	background-color: pink;
+}
